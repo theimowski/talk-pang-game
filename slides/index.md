@@ -65,7 +65,7 @@ src="https://www.youtube.com/embed/OeYIeaHjewU?t=9&autoplay=1">
 
 ***
 
-# Starting point
+## Starting point
 
 * [SAFE Template](https://github.com/SAFE-Stack/SAFE-template) with [Azure App Service](https://safe-stack.github.io/docs/template-appservice/) and [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting)
 * [mainloop.js](https://github.com/IceCreamYou/MainLoop.js) and [matter.js](http://brm.io/matter-js/)
@@ -75,7 +75,7 @@ src="https://www.youtube.com/embed/OeYIeaHjewU?t=9&autoplay=1">
 
 ***
 
-# Milestones
+## Milestones
 
 1. Move player with buttons
 1. Add first ball to board

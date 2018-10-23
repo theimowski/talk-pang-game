@@ -21,8 +21,8 @@ Left time: 25p
 
 10-22
 
-* Final amends 2p
-* Slides 2p
++ Final amends 2p
++ Slides 2p
 
 10-23 - 10-24
 
@@ -65,3 +65,27 @@ Left time: 25p
 + Some snippets for server and shared and client proxy or even have it already ready!
 + snippet for renderHighScores
 + Active pattern for IPair collision
+
+
+## Optional changes after test 03
+
+* onCollisions snippet is a bit of cheat - add some coding?
+* oncollision start for player - extract code to Physics
+* higher buttons
+
+STAGES review:
+* Buttons + moving player 2
+* Ball on the board 1
+* Button + Shooting harpoon 3
+* Shooting balls and splitting 3
+* Counting score 1
+* Game over 2
+* Reset game after game over 1
+* High scores 3
+* Deploy 2
+
+## Test 04
+
+* moveVert vs moveHorizontally for force
+* onCollisionWith -> onCollision
+* prepare scores in Azure storage
