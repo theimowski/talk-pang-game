@@ -89,3 +89,20 @@ STAGES review:
 * moveVert vs moveHorizontally for force
 * onCollisionWith -> onCollision
 * prepare scores in Azure storage
+
+* if scores < 10 then highscore = score > 0
+
+## Test 05
+
+* open Fable.Import.Browser
+
+# Test 06
+
+* Remove renderShape duplicate
+* move Fable.Import.Browser
+
+# Test 07
+
+
+* Mention Alfonso building the prototype in slides
+* Add questions & answers at the end!

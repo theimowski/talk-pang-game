@@ -52,6 +52,7 @@ src="https://www.youtube.com/embed/OeYIeaHjewU?t=9&autoplay=1">
 
 * see clean code
 * praise functional purity
+* understand every line of code
 * admire my fast typing
 
 ***
@@ -67,6 +68,7 @@ src="https://www.youtube.com/embed/OeYIeaHjewU?t=9&autoplay=1">
 
 ## Starting point
 
+* Game prototype built by [@alfonsogarciacaro](https://github.com/alfonsogarciacaro)
 * [SAFE Template](https://github.com/SAFE-Stack/SAFE-template) with [Azure App Service](https://safe-stack.github.io/docs/template-appservice/) and [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting)
 * [mainloop.js](https://github.com/IceCreamYou/MainLoop.js) and [matter.js](http://brm.io/matter-js/)
 * Imports/modules: Canvas, Matter, Physics
@@ -88,3 +90,7 @@ src="https://www.youtube.com/embed/OeYIeaHjewU?t=9&autoplay=1">
 1. Ship it!
 
 ***
+
+## Thank you
+
+Source code: https://github.com/theimowski/pang-game-test
